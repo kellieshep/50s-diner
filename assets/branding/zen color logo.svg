@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:#65C8D0;stroke:#000000;stroke-miterlimit:10;}
 	.st1{fill:#F6FFA3;stroke:#000000;stroke-miterlimit:10;}
-	.st2{font-family:'MyriadPro-Regular';}
+	.st2{font-family:'RobotoCondensed-Regular';}
 	.st3{font-size:44px;}
 	.st4{font-family:'Lato-BoldItalic';}
 	.st5{font-size:52px;}
@@ -19,7 +19,7 @@
 	<text transform="matrix(1 0 0 1 114.9833 109.4094)" class="st2 st3">E</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 150.4261 109.4093)" class="st2 st3">N</text>
+	<text transform="matrix(1 0 0 1 151.9733 110.2871)" class="st2 st3">N</text>
 </g>
 <text transform="matrix(1 0 0 1 109.0762 198.8608)" class="st4 st5">Garden</text>
 </svg>
