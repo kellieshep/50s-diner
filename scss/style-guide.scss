@@ -71,12 +71,12 @@ header {
 
 	li a {
 		color: $color-5;
-		border-color: lighten($color-2, 5%);
+		border-color: lighten($red, 5%);
 	}
 
 	@include MQ(M) {
 		li a {
-			color: lighten($color-2, 40%);
+			color: lighten($blue, 40%);
 
 			&.selected {
 				color: $color-5;
